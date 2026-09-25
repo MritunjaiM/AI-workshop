@@ -1,0 +1,11 @@
+requests
+python-dotenv
+openai
+streamlit
+chromadb
+python-pptx
+pypdf
+joblib
+scikit-learn==1.9.1
+sentence-transformers
+torchvision
